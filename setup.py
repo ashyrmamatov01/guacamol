@@ -29,7 +29,7 @@ setup(name='guacamol',
           'scipy>=1.1.0',
           'tqdm>=4.26.0',
           'FCD>=1.1',
-          'rdkit-pypi>=2021.9.2.1',
+          'rdkit>=2023.9.2',
       ],
       python_requires='>=3.6',
       extras_require={
